@@ -1,0 +1,6 @@
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\CarInventoryBonus18\CarInventoryBonus18\bin\Debug\CarInventoryBonus18.exe.config
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\CarInventoryBonus18\CarInventoryBonus18\bin\Debug\CarInventoryBonus18.exe
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\CarInventoryBonus18\CarInventoryBonus18\bin\Debug\CarInventoryBonus18.pdb
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\CarInventoryBonus18\CarInventoryBonus18\obj\Debug\CarInventoryBonus18.csprojResolveAssemblyReference.cache
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\CarInventoryBonus18\CarInventoryBonus18\obj\Debug\CarInventoryBonus18.exe
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\CarInventoryBonus18\CarInventoryBonus18\obj\Debug\CarInventoryBonus18.pdb
